@@ -1,0 +1,11 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "580efc7ed886bdf7b5f8638ed85f0e75b6cdf4fa5d94166ee3f52e9707795cac"
+build_start_time: [1795328715, 184559000]
+build_end_time: [1795328715, 497549000]
+inputs:
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Deprecations.swift"
+  : [1794955915, 492295219]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Exports.swift"
+  : [1794955915, 492359219]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Fail.swift"
+  : [1794955915, 492415094]

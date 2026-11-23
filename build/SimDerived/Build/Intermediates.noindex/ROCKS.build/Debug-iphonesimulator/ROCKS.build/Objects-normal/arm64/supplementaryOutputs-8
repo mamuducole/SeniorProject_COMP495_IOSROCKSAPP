@@ -1,0 +1,30 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/NotificationsViewModel.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/NotificationsViewModel.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/NotificationsViewModel.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/NotificationsViewModel.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/NotificationsViewModel.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/NotificationsViewModel.o"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/DesignSystem/ROCKSComponents.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSComponents.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSComponents.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSComponents.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSComponents.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSComponents.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Repositories/MentorshipRepository.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipRepository.swiftdeps"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipRepository.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipRepository.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipRepository.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipRepository.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/FeedViewModel.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/FeedViewModel.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/FeedViewModel.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/FeedViewModel.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/FeedViewModel.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/FeedViewModel.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/MentorshipViewModel.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipViewModel.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipViewModel.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipViewModel.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipViewModel.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MentorshipViewModel.dia"

@@ -1,0 +1,36 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/DesignSystem/SafariView.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/SafariView.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/SafariView.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/SafariView.o"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/SafariView.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/SafariView.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/OfficialLinks.swift":
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/OfficialLinks.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/OfficialLinks.o"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/OfficialLinks.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/OfficialLinks.swiftconstvalues"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/OfficialLinks.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/EventRegistrationViewModel.swift":
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.o"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.swiftdeps"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Services/EventRegistrationService.swift":
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationService.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationService.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationService.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationService.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventRegistrationService.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/DeepLinkRoute.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.swiftdeps"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/RolePermissions.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RolePermissions.swiftconstvalues"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RolePermissions.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RolePermissions.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RolePermissions.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RolePermissions.dia"

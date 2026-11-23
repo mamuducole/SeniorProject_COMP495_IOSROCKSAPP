@@ -1,0 +1,48 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Curve25519.swift":
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Curve25519.dia"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Curve25519.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Curve25519.o"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Curve25519.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Curve25519.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/X25519Keys.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/X25519Keys_boring.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys_boring.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys_boring.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys_boring.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys_boring.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/X25519Keys_boring.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/NISTCurvesKeys_boring.swift":
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys_boring.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys_boring.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys_boring.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys_boring.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys_boring.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/NISTCurvesKeys.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys.swiftdeps"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/NISTCurvesKeys.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/Ed25519_boring.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519_boring.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519_boring.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519_boring.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519_boring.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519_boring.o"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Ed25519Keys.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519Keys.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519Keys.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519Keys.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519Keys.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/Ed25519Keys.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/Symmetric/SymmetricKeys.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/SymmetricKeys.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/SymmetricKeys.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/SymmetricKeys.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/SymmetricKeys.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Debug-iphonesimulator/Crypto.build/Objects-normal/arm64/SymmetricKeys.dia"

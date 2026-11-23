@@ -1,0 +1,18 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/PKCE.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.swiftconstvalues"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/PKCE.o"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/SessionStorage.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionStorage.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionStorage.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionStorage.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionStorage.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionStorage.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/SessionManager.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/SessionManager.o"

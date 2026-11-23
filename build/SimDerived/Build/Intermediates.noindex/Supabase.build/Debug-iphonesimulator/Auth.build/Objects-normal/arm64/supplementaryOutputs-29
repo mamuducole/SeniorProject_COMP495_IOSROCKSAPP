@@ -1,0 +1,18 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/supabase-swift/Sources/Auth/Defaults.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Defaults.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Defaults.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Defaults.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Defaults.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/Defaults.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthOAuthServer.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthOAuthServer.swiftconstvalues"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthOAuthServer.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthOAuthServer.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthOAuthServer.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthOAuthServer.swiftdeps"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthStateChangeListener.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthStateChangeListener.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthStateChangeListener.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthStateChangeListener.dia"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthStateChangeListener.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Auth.build/Objects-normal/arm64/AuthStateChangeListener.swiftdeps"

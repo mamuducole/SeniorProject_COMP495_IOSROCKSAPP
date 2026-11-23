@@ -1,0 +1,18 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/EventsViewModel.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventsViewModel.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventsViewModel.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventsViewModel.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventsViewModel.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventsViewModel.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/MemberDirectoryView.swift":
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.swiftconstvalues"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/HomeViewModel.swift":
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues"

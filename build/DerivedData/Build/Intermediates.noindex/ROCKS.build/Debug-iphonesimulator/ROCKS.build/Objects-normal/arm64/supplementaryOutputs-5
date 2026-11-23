@@ -1,0 +1,24 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/EventListView.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventListView.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventListView.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventListView.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventListView.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/EventListView.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/PlaceholderViews.swift":
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/PlaceholderViews.dia"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/PlaceholderViews.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/PlaceholderViews.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/PlaceholderViews.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/PlaceholderViews.swiftdeps"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/App/AppEnvironment.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppEnvironment.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppEnvironment.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppEnvironment.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppEnvironment.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppEnvironment.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/AppError.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppError.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppError.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppError.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppError.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppError.dia"

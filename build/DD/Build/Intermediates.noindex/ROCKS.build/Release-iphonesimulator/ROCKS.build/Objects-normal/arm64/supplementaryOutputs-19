@@ -1,0 +1,36 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Models/Publication.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/Publication.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/Publication.o"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/Publication.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/Publication.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/Publication.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/ProgramsView.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ProgramsView.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ProgramsView.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ProgramsView.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ProgramsView.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ProgramsView.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Repositories/NewsRepository.swift":
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsRepository.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsRepository.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsRepository.swiftdeps"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsRepository.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsRepository.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/NewsView.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsView.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsView.o"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsView.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsView.dia"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsView.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Models/NewsArticle.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsArticle.swiftconstvalues"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsArticle.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsArticle.o"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsArticle.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/NewsArticle.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/PublicationReader.swift":
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/PublicationReader.dia"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/PublicationReader.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/PublicationReader.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/PublicationReader.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/PublicationReader.o"

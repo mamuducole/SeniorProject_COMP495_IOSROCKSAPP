@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPTypes-master.dia",
+    "emit-module-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPTypes-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPTypes-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPTypes-master.swiftdeps"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTP2ErrorCode.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP2ErrorCode.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP2ErrorCode.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP2ErrorCode.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP2ErrorCode.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP2ErrorCode.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP2ErrorCode.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP2ErrorCode.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP2ErrorCode~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTP3ErrorCode.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP3ErrorCode.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP3ErrorCode.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP3ErrorCode.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP3ErrorCode.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP3ErrorCode.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP3ErrorCode.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP3ErrorCode.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTP3ErrorCode~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPField.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPField.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPField.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPField.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPField.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPField.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPField.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPField.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPField~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPFieldName.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldName.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldName.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldName.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldName.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldName.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldName.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldName.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldName~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPFieldValue.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldValue.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldValue.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldValue.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldValue.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldValue.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldValue.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldValue.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFieldValue~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPFields.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFields.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFields.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFields.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFields.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFields.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFields.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFields.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPFields~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPParsedFields.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPParsedFields.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPParsedFields.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPParsedFields.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPParsedFields.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPParsedFields.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPParsedFields.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPParsedFields.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPParsedFields~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPRequest+URL.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest+URL.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest+URL.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest+URL.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest+URL.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest+URL.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest+URL.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest+URL.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest+URL~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPRequest.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPRequest~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPResponse.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPResponse.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPResponse.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPResponse.dia",
+    "index-unit-output-path" : "/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPResponse.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPResponse.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPResponse.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPResponse.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/swift-http-types.build/Debug-iphonesimulator/HTTPTypes.build/Objects-normal/arm64/HTTPResponse~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "5f46aeec883583f566377fbbf9dc5073c322ea6f14c92783cd6d0928040a7ece"
+build_start_time: [1795328717, 453058000]
+build_end_time: [1795328721, 879676000]
+inputs:
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Functions/Exports.swift": [1794955915, 739722909]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Functions/FunctionsClient.swift"
+  : [1794955915, 739857450]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Functions/Types.swift": [1794955915, 739965616]

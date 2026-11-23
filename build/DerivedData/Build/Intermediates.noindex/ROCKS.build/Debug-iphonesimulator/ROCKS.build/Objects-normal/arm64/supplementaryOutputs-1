@@ -1,0 +1,24 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/DesignSystem/AppTheme.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppTheme.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppTheme.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppTheme.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppTheme.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppTheme.o"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/App/RootView.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RootView.swiftdeps"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RootView.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RootView.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RootView.dia"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/RootView.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/App/ROCKSApp.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSApp.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSApp.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSApp.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSApp.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/ROCKSApp.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/App/AppState.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppState.swiftconstvalues"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppState.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppState.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppState.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AppState.swiftdeps"

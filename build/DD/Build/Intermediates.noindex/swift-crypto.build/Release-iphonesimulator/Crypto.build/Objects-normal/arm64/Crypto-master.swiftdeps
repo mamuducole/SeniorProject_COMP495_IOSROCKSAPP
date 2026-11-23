@@ -1,0 +1,164 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "91388496e65ae15297cf304bb6a9cb594dae5a109ab6700df4ed7bb8a59c3b24"
+build_start_time: [1795328714, 400088000]
+build_end_time: [1795328714, 732245000]
+inputs:
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/swift-crypto.build/Release-iphonesimulator/Crypto.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1795326311, 620695203]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/AES-GCM.swift"
+  : [1794955914, 828371780]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/BoringSSL/AES-GCM_boring.swift"
+  : [1794955914, 828650571]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/BoringSSL/ChaChaPoly_boring.swift"
+  : [1794955914, 828984737]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/ChaChaPoly.swift"
+  : [1794955914, 829110112]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/AEADs/Cipher.swift": [1794955914, 829194195]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/AEADs/Nonces.swift": [1794955914, 829283819]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/ASN1.swift": [1794955914, 829675985]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Any.swift"
+  : [1794955914, 829833943]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1BitString.swift"
+  : [1794955914, 829923860]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Boolean.swift"
+  : [1794955914, 830017859]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Identifier.swift"
+  : [1794955914, 830119859]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Integer.swift"
+  : [1794955914, 830222067]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Null.swift"
+  : [1794955914, 830316234]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1OctetString.swift"
+  : [1794955914, 830396525]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Strings.swift"
+  : [1794955914, 830496483]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ArraySliceBigint.swift"
+  : [1794955914, 830585733]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/GeneralizedTime.swift"
+  : [1794955914, 830682899]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ObjectIdentifier.swift"
+  : [1794955914, 830923232]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/ECDSASignature.swift": [1794955914, 831021148]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/PEMDocument.swift": [1794955914, 831138523]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/PKCS8PrivateKey.swift"
+  : [1794955914, 831246856]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/SEC1PrivateKey.swift": [1794955914, 831340773]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/ASN1/SubjectPublicKeyInfo.swift"
+  : [1794955914, 831425981]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/CryptoError_boring.swift": [1794955914, 831599938]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/CryptoKitErrors.swift": [1794955914, 831692438]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Digests/BoringSSL/Digest_boring.swift"
+  : [1794955914, 831865479]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Digests/Digest.swift": [1794955914, 832010646]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Digests/Digests.swift": [1794955914, 832160187]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions.swift"
+  : [1794955914, 832328687]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions_SHA2.swift"
+  : [1794955914, 832432311]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions_SHA3.swift"
+  : [1794955914, 832523686]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Digests/XKCP/Digest_xkcp.swift"
+  : [1794955914, 832643519]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/HPKE-AEAD.swift"
+  : [1794955914, 832967185]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/HPKE-Ciphersuite.swift"
+  : [1794955914, 833062518]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/HPKE-KDF.swift"
+  : [1794955914, 833146143]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/HPKE-KexKeyDerivation.swift"
+  : [1794955914, 833228059]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/HPKE-LabeledExtract.swift"
+  : [1794955914, 833308851]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/HPKE-Utils.swift"
+  : [1794955914, 833383892]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/KEM/Conformances/DHKEM.swift"
+  : [1794955914, 833547017]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/KEM/Conformances/HPKE-KEM-Curve25519.swift"
+  : [1794955914, 833637725]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/KEM/Conformances/HPKE-NIST-EC-KEMs.swift"
+  : [1794955914, 833729558]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Ciphersuite/KEM/HPKE-KEM.swift"
+  : [1794955914, 833822641]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/HPKE-Errors.swift": [1794955914, 833939266]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/HPKE.swift": [1794955914, 834128682]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Key Schedule/HPKE-Context.swift"
+  : [1794955914, 834327306]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Key Schedule/HPKE-KeySchedule.swift"
+  : [1794955914, 834430473]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/HPKE/Modes/HPKE-Modes.swift"
+  : [1794955914, 834593222]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure.swift": [1794955914, 834775555]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure_HashFunctions.swift"
+  : [1794955914, 834908638]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/KEM/BoringSSL/MLKEM_boring.swift"
+  : [1794955914, 835231762]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/KEM/BoringSSL/MLKEM_wrapper.swift"
+  : [1794955914, 835445470]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/KEM/BoringSSL/XWing_boring.swift"
+  : [1794955914, 835531845]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/KEM/KEM-Errors.swift": [1794955914, 835616803]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/KEM/KEM.swift": [1794955914, 835706053]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/KEM/MLKEM.swift": [1794955914, 835799303]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/KEM/XWing.swift": [1794955914, 836118510]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Key Agreement/BoringSSL/ECDH_boring.swift"
+  : [1794955914, 836360801]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Key Agreement/DH.swift": [1794955914, 836486676]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Key Agreement/ECDH.swift": [1794955914, 836923091]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Key Derivation/ANSIx963.swift"
+  : [1794955914, 837307382]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Key Derivation/HKDF.swift": [1794955914, 837516257]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/AESWrap.swift"
+  : [1794955914, 837647048]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/BoringSSL/AESWrap_boring.swift"
+  : [1794955914, 837795881]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/Ed25519_boring.swift"
+  : [1794955914, 838250171]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/NISTCurvesKeys_boring.swift"
+  : [1794955914, 838433587]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/X25519Keys_boring.swift"
+  : [1794955914, 838532421]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Curve25519.swift": [1794955914, 838622712]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Ed25519Keys.swift": [1794955914, 838725295]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/NISTCurvesKeys.swift"
+  : [1794955914, 838797461]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/EC/X25519Keys.swift": [1794955914, 838892086]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Keys/Symmetric/SymmetricKeys.swift"
+  : [1794955914, 839037836]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/HMAC/HMAC.swift"
+  : [1794955914, 839246960]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MACFunctions.swift"
+  : [1794955914, 839333752]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MessageAuthenticationCode.swift"
+  : [1794955914, 839428793]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/PRF/AES.swift": [1794955914, 839543876]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSASignature_boring.swift"
+  : [1794955914, 839763709]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSA_boring.swift"
+  : [1794955914, 839853584]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/EdDSA_boring.swift"
+  : [1794955914, 839928084]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/MLDSA_boring.swift"
+  : [1794955914, 840073000]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/MLDSA_wrapper.swift"
+  : [1794955914, 840302082]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Signatures/ECDSA.swift": [1794955914, 840436957]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Signatures/Ed25519.swift": [1794955914, 840611873]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Signatures/MLDSA.swift": [1794955914, 840723623]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Signatures/Signature.swift"
+  : [1794955914, 840872748]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/CryptoKitErrors_boring.swift"
+  : [1794955914, 841016372]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/Optional+withUnsafeBytes_boring.swift"
+  : [1794955914, 841086122]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/RNG_boring.swift"
+  : [1794955914, 841176539]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/SafeCompare_boring.swift"
+  : [1794955914, 841241038]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/Zeroization_boring.swift"
+  : [1794955914, 841322247]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/_CryptoModuleAnchor.swift"
+  : [1794955914, 841387246]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/PrettyBytes.swift": [1794955914, 841457871]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/SafeCompare.swift": [1794955914, 841539496]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/SecureBytes.swift": [1794955914, 841775620]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-crypto/Sources/Crypto/Util/Zeroization.swift": [1794955914, 841900120]

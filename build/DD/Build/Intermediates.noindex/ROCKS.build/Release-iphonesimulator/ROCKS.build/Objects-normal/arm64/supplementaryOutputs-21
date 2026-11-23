@@ -1,0 +1,36 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/ScholarshipInfoView.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ScholarshipInfoView.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ScholarshipInfoView.dia"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ScholarshipInfoView.swiftconstvalues"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ScholarshipInfoView.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/ScholarshipInfoView.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/CHAMPMentorshipView.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/CHAMPMentorshipView.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/CHAMPMentorshipView.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/CHAMPMentorshipView.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/CHAMPMentorshipView.dia"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/CHAMPMentorshipView.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/MemberDirectoryView.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MemberDirectoryView.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/MembershipView.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembershipView.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembershipView.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembershipView.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembershipView.dia"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembershipView.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/HomeViewModel.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/HomeViewModel.o"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/MembersViewModel.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembersViewModel.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembersViewModel.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembersViewModel.dia"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembersViewModel.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/ROCKS.build/Release-iphonesimulator/ROCKS.build/Objects-normal/arm64/MembersViewModel.swiftdeps"

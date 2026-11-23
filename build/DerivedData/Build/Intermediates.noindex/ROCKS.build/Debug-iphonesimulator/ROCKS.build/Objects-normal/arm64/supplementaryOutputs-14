@@ -1,0 +1,18 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Services/AuthService.swift":
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthService.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthService.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthService.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthService.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthService.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/AuthViewModel.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthViewModel.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthViewModel.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthViewModel.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthViewModel.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/AuthViewModel.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Models/User.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/User.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/User.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/User.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/User.dia"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKS.build/Objects-normal/arm64/User.swiftconstvalues"

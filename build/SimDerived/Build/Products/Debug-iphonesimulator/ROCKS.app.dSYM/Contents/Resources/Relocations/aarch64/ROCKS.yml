@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Products/Debug-iphonesimulator/ROCKS.app/ROCKS'
+relocations:     []
+...

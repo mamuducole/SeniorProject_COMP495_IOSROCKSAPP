@@ -1,0 +1,18 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/ChannelStateManager.swift":
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelStateManager.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelStateManager.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelStateManager.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelStateManager.dia"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelStateManager.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/ChannelEvent.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelEvent.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelEvent.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelEvent.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelEvent.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/ChannelEvent.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/CallbackManager.swift":
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/CallbackManager.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/CallbackManager.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/CallbackManager.swiftconstvalues"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/CallbackManager.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/SimDerived/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/RealtimeV2.build/Objects-normal/arm64/CallbackManager.dia"

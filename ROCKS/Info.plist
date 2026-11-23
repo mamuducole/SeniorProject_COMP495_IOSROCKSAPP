@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>org.rocksinc.rocks.auth</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>org.rocksinc.rocks</string>
+			</array>
+		</dict>
+	</array>
+	<key>DEMO_MODE_ENABLED</key>
+	<string>$(DEMO_MODE_ENABLED)</string>
+	<key>SUPABASE_URL</key>
+	<string>$(SUPABASE_URL)</string>
+	<key>SUPABASE_ANON_KEY</key>
+	<string>$(SUPABASE_ANON_KEY)</string>
+	<key>DONATION_URL</key>
+	<string>$(DONATION_URL)</string>
+	<key>MEMBERSHIP_PAYMENT_URL</key>
+	<string>$(MEMBERSHIP_PAYMENT_URL)</string>
+	<key>TERMS_URL</key>
+	<string>$(TERMS_URL)</string>
+	<key>PRIVACY_POLICY_URL</key>
+	<string>$(PRIVACY_POLICY_URL)</string>
+	<key>CHAMP_URL</key>
+	<string>$(CHAMP_URL)</string>
+</dict>
+</plist>

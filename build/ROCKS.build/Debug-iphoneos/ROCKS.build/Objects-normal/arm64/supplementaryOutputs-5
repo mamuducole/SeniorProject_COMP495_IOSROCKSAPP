@@ -1,0 +1,18 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Repositories/ChapterRepository.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.swiftdeps"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Repositories/EventRepository.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.dia"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/DateFormatting.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.swiftconstvalues"

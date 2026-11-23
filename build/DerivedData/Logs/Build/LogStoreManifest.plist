@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>4753FCEE-AF0D-4174-819C-AAA9CD697BEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4753FCEE-AF0D-4174-819C-AAA9CD697BEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>9</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ROCKS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ROCKS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project ROCKS with scheme ROCKS</string>
+			<key>timeStartedRecording</key>
+			<real>815430214.80778301</real>
+			<key>timeStoppedRecording</key>
+			<real>815430216.145913</real>
+			<key>title</key>
+			<string>Testing project ROCKS with scheme ROCKS</string>
+			<key>uniqueIdentifier</key>
+			<string>4753FCEE-AF0D-4174-819C-AAA9CD697BEA</string>
+		</dict>
+		<key>9FD71D40-5467-428B-9564-E10F9C3326E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9FD71D40-5467-428B-9564-E10F9C3326E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>9</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ROCKS project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ROCKS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project ROCKS with scheme ROCKS</string>
+			<key>timeStartedRecording</key>
+			<real>815429770.55036294</real>
+			<key>timeStoppedRecording</key>
+			<real>815429771.926525</real>
+			<key>title</key>
+			<string>Testing project ROCKS with scheme ROCKS</string>
+			<key>uniqueIdentifier</key>
+			<string>9FD71D40-5467-428B-9564-E10F9C3326E0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

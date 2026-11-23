@@ -1,0 +1,21 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "fd99d493ebe1639c8af128ff81afa93c99cfee2d8da34423bb2fcb51c8a3a618"
+build_start_time: [1795328717, 454369000]
+build_end_time: [1795328721, 880029000]
+inputs:
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/Defaults.swift": [1794955915, 750679589]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/Deprecated.swift": [1794955915, 750785963]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/Exports.swift": [1794955915, 750878838]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/PostgrestBuilder.swift"
+  : [1794955915, 751363920]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/PostgrestClient.swift"
+  : [1794955915, 751604920]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/PostgrestFilterBuilder.swift"
+  : [1794955915, 752105127]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/PostgrestFilterValue.swift"
+  : [1794955915, 752394709]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/PostgrestQueryBuilder.swift"
+  : [1794955915, 752720750]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/PostgrestTransformBuilder.swift"
+  : [1794955915, 755254785]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/PostgREST/Types.swift": [1794955915, 755408118]

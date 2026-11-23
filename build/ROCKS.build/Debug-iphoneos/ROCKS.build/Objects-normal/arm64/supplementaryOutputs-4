@@ -1,0 +1,18 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/App/AppEnvironment.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/AppError.swift":
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.o"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.swiftdeps"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.dia"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/PlaceholderViews.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.d"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.dia"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.swiftdeps"

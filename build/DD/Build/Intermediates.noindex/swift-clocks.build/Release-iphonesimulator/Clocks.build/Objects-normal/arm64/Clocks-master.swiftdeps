@@ -1,0 +1,14 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "a568c6dc547b2a98481dee12e2122e0c0233f2c670ddde52440beec359fc5d7b"
+build_start_time: [1795328715, 185830000]
+build_end_time: [1795328715, 573559000]
+inputs:
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-clocks/Sources/Clocks/AnyClock.swift": [1794955915, 549821111]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-clocks/Sources/Clocks/ImmediateClock.swift": [1794955915, 550366068]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-clocks/Sources/Clocks/Internal/Lock.swift": [1794955915, 550565276]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-clocks/Sources/Clocks/Internal/_AsyncTimerSequence.swift"
+  : [1794955915, 550642567]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-clocks/Sources/Clocks/SwiftUI.swift": [1794955915, 550732525]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-clocks/Sources/Clocks/TestClock.swift": [1794955915, 550856359]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-clocks/Sources/Clocks/Timer.swift": [1794955915, 550932317]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-clocks/Sources/Clocks/UnimplementedClock.swift": [1794955915, 551032275]

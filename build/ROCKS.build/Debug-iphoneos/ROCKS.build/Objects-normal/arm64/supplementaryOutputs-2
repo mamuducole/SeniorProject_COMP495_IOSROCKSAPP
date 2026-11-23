@@ -1,0 +1,18 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/DesignSystem/AppTheme.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.dia"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.o"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Models/Chapter.swift":
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.swiftconstvalues"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.d"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.dia"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.swiftdeps"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Models/Event.swift":
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.o"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.swiftdeps"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.d"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.swiftconstvalues"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.dia"

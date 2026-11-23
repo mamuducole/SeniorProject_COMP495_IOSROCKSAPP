@@ -1,0 +1,10 @@
+// Release-safe defaults. Supply these values using the app's local build configuration.
+SUPABASE_URL =
+SUPABASE_ANON_KEY =
+DONATION_URL =
+MEMBERSHIP_PAYMENT_URL =
+CHAMP_URL = https:/$()/www.rocksinc.org/champ
+DEMO_MODE_ENABLED = NO
+// Optional approved legal documents shown during registration (HTTPS only).
+TERMS_URL =
+PRIVACY_POLICY_URL =

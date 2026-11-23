@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master.dia",
+    "emit-module-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/XCTestDynamicOverlay-master.swiftdeps"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Deprecations.swift" : {
+    "index-unit-output-path" : "/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/Deprecations.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/Deprecations.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/Deprecations.o"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Exports.swift" : {
+    "index-unit-output-path" : "/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/Exports.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/Exports.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/Exports.o"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/XCTestDynamicOverlay/Internal/Fail.swift" : {
+    "index-unit-output-path" : "/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/Fail.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/Fail.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Release-iphonesimulator/XCTestDynamicOverlay.build/Objects-normal/arm64/Fail.o"
+  }
+}

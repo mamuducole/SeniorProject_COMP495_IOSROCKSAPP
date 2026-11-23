@@ -1,0 +1,56 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "58f11dc568eab00134a106bdea5ecd83fc471a2253ca8b80be3dda36541d91cf"
+build_start_time: [1795328717, 457427000]
+build_end_time: [1795328721, 879153000]
+inputs:
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthAdmin.swift": [1794955915, 727712315]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthAdminOAuth.swift": [1794955915, 727903398]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthClient.swift": [1794955915, 728751229]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthClientConfiguration.swift"
+  : [1794955915, 728938729]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthError.swift": [1794955915, 729152811]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthMFA.swift": [1794955915, 729290353]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthOAuthServer.swift": [1794955915, 729546269]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/AuthStateChangeListener.swift"
+  : [1794955915, 729816310]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Defaults.swift": [1794955915, 729961184]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Deprecated.swift": [1794955915, 732234970]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Exports.swift": [1794955915, 732603177]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/APIClient.swift": [1794955915, 734279756]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/CodeVerifierStorage.swift"
+  : [1794955915, 734499047]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/Constants.swift": [1794955915, 734673464]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/Dependencies.swift"
+  : [1794955915, 734839088]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/EventEmitter.swift"
+  : [1794955915, 734947588]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/FixedWidthInteger+Random.swift"
+  : [1794955915, 736391084]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/Helpers.swift": [1794955915, 736523875]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/JWK+RSA.swift": [1794955915, 736624000]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/JWTAlgorithm.swift"
+  : [1794955915, 736954083]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/Keychain.swift": [1794955915, 737403790]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/PKCE.swift": [1794955915, 737511623]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/SessionManager.swift"
+  : [1794955915, 737652789]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/SessionStorage.swift"
+  : [1794955915, 737785497]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Internal/URLOpener.swift": [1794955915, 738037413]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Storage/AuthLocalStorage.swift"
+  : [1794955915, 738201163]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Storage/KeychainLocalStorage.swift"
+  : [1794955915, 738321579]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Storage/WinCredLocalStorage.swift"
+  : [1794955915, 738423287]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/Types.swift": [1794955915, 738850453]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/WebAuthn/AuthAdmin+Passkey.swift"
+  : [1794955915, 738991786]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/WebAuthn/AuthClient+Passkey.swift"
+  : [1794955915, 739137369]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/WebAuthn/AuthMFA+WebAuthn.swift"
+  : [1794955915, 739256035]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/WebAuthn/WebAuthnAuthenticator.swift"
+  : [1794955915, 739404951]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Auth/WebAuthn/WebAuthnTypes.swift"
+  : [1794955915, 739534368]

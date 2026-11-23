@@ -1,0 +1,40 @@
+{
+  "" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Supabase-master.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Supabase-master.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Supabase-master.dia",
+    "emit-module-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Supabase-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Supabase-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Supabase-master.swiftdeps"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Constants.swift" : {
+    "index-unit-output-path" : "/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Constants.o"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Deprecated.swift" : {
+    "index-unit-output-path" : "/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Deprecated.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Deprecated.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Deprecated.o"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Exports.swift" : {
+    "index-unit-output-path" : "/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Exports.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Exports.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Exports.o"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/SupabaseClient.swift" : {
+    "index-unit-output-path" : "/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/SupabaseClient.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/SupabaseClient.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/SupabaseClient.o"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Tracing.swift" : {
+    "index-unit-output-path" : "/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Tracing.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Tracing.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Tracing.o"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Types.swift" : {
+    "index-unit-output-path" : "/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Types.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Types.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/Build/Intermediates.noindex/Supabase.build/Release-iphonesimulator/Supabase.build/Objects-normal/arm64/Types.o"
+  }
+}

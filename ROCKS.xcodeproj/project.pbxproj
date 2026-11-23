@@ -1,0 +1,764 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A10000010000000000000001 /* ROCKSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000001 /* ROCKSApp.swift */; };
+		A10000010000000000000002 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000002 /* AppState.swift */; };
+		A10000010000000000000003 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000003 /* RootView.swift */; };
+		A10000010000000000000004 /* AppTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000004 /* AppTheme.swift */; };
+		A10000010000000000000005 /* Chapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000005 /* Chapter.swift */; };
+		A10000010000000000000006 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000006 /* Event.swift */; };
+		A10000010000000000000007 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000007 /* HomeView.swift */; };
+		A10000010000000000000008 /* ChapterListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000008 /* ChapterListView.swift */; };
+		A10000010000000000000009 /* EventListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000009 /* EventListView.swift */; };
+		A10000010000000000000010 /* PlaceholderViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000010 /* PlaceholderViews.swift */; };
+		A10000010000000000000011 /* ROCKSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000011 /* ROCKSTests.swift */; };
+		A10000010000000000000012 /* AppEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000014 /* AppEnvironment.swift */; };
+		A10000010000000000000013 /* AppError.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000015 /* AppError.swift */; };
+		A10000010000000000000014 /* ChapterRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000016 /* ChapterRepository.swift */; };
+		A10000010000000000000015 /* EventRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000017 /* EventRepository.swift */; };
+		A10000010000000000000016 /* DateFormatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000018 /* DateFormatting.swift */; };
+		A10000010000000000000017 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000019 /* LoadingView.swift */; };
+		A10000010000000000000018 /* ROCKSButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000020 /* ROCKSButton.swift */; };
+		A10000010000000000000019 /* ROCKSTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000021 /* ROCKSTextField.swift */; };
+		A10000010000000000000020 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000022 /* User.swift */; };
+		A10000010000000000000021 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000023 /* AuthService.swift */; };
+		A10000010000000000000022 /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000024 /* AuthViewModel.swift */; };
+		A10000010000000000000023 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000025 /* OnboardingView.swift */; };
+		A10000010000000000000024 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000026 /* LoginView.swift */; };
+		A10000010000000000000025 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000027 /* ProfileView.swift */; };
+		A10000010000000000000026 /* ProgramsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000028 /* ProgramsView.swift */; };
+		A10000010000000000000027 /* NewsArticle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000029 /* NewsArticle.swift */; };
+		A10000010000000000000028 /* NewsRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000030 /* NewsRepository.swift */; };
+		A10000010000000000000029 /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000031 /* NewsView.swift */; };
+		A10000010000000000000031 /* EventRegistrationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000033 /* EventRegistrationService.swift */; };
+		A10000010000000000000032 /* EventRegistrationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000034 /* EventRegistrationViewModel.swift */; };
+		A10000010000000000000033 /* EventRegistrationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000035 /* EventRegistrationTests.swift */; };
+		A10000010000000000000034 /* DeepLinkRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000036 /* DeepLinkRoute.swift */; };
+		A10000010000000000000035 /* RolePermissions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000037 /* RolePermissions.swift */; };
+		A10000010000000000000036 /* DeepLinkAndPermissionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000038 /* DeepLinkAndPermissionTests.swift */; };
+		A10000010000000000000037 /* OfficialLinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000039 /* OfficialLinks.swift */; };
+		A10000010000000000000038 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000040 /* SafariView.swift */; };
+		A10000010000000000000039 /* CHAMPMentorshipView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000041 /* CHAMPMentorshipView.swift */; };
+		A10000010000000000000040 /* ScholarshipInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000042 /* ScholarshipInfoView.swift */; };
+		A10000010000000000000041 /* MembershipView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000043 /* MembershipView.swift */; };
+		A10000010000000000000042 /* MemberDirectoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000044 /* MemberDirectoryView.swift */; };
+		A10000010000000000000043 /* OfficialLinksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000045 /* OfficialLinksTests.swift */; };
+		A10000010000000000000044 /* ROCKS/Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000046 /* ROCKS/Assets.xcassets */; };
+		A10000010000000000000045 /* MembersViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000047 /* MembersViewModel.swift */; };
+		A10000010000000000000046 /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000048 /* HomeViewModel.swift */; };
+		A10000010000000000000047 /* EventsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000049 /* EventsViewModel.swift */; };
+		A10000010000000000000048 /* MentorshipViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000004A /* MentorshipViewModel.swift */; };
+		A10000010000000000000049 /* FeedViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000004B /* FeedViewModel.swift */; };
+		A1000001000000000000004A /* NotificationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000004C /* NotificationsViewModel.swift */; };
+		A1000001000000000000004B /* ROCKSComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000004D /* ROCKSComponents.swift */; };
+		A1000001000000000000004C /* MentorshipRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000004E /* MentorshipRepository.swift */; };
+		A1000001000000000000004D /* ScholarshipRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000004F /* ScholarshipRepository.swift */; };
+		A1000001000000000000004E /* MemberRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000050 /* MemberRepository.swift */; };
+		A1000001000000000000004F /* NotificationRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000051 /* NotificationRepository.swift */; };
+		A10000010000000000000050 /* FeedRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000052 /* FeedRepository.swift */; };
+		A10000010000000000000051 /* AppNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000053 /* AppNotification.swift */; };
+		A10000010000000000000052 /* Scholarship.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000054 /* Scholarship.swift */; };
+		A10000010000000000000053 /* Community.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000055 /* Community.swift */; };
+		A10000010000000000000054 /* Mentorship.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000056 /* Mentorship.swift */; };
+		A10000010000000000000055 /* ResourcesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000057 /* ResourcesView.swift */; };
+		A10000010000000000000056 /* MentorshipViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000058 /* MentorshipViews.swift */; };
+		A10000010000000000000057 /* ScholarshipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000059 /* ScholarshipsView.swift */; };
+		A10000010000000000000058 /* MembersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000005A /* MembersView.swift */; };
+		A10000010000000000000059 /* ExploreMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000005B /* ExploreMenuView.swift */; };
+		A1000001000000000000005A /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000005C /* SplashView.swift */; };
+		A1000001000000000000005B /* CommunityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000005D /* CommunityView.swift */; };
+		A1000001000000000000005C /* DonateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000005E /* DonateView.swift */; };
+		A1000001000000000000005D /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000005F /* NotificationsView.swift */; };
+		A1000001000000000000005E /* SupabaseAuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000060 /* SupabaseAuthService.swift */; };
+		A1000001000000000000005F /* SupabaseRepositories.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000061 /* SupabaseRepositories.swift */; };
+		A10000010000000000000060 /* FeatureViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20000010000000000000062 /* FeatureViewModelTests.swift */; };
+		A1000001000000000000F001 /* CommunityBoardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000001000000000000F001 /* CommunityBoardTests.swift */; };
+		A10000010000000000000061 /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = B20000010000000000000001 /* Supabase */; };
+		C10000010000000000000001 /* events.json in Resources */ = {isa = PBXBuildFile; fileRef = C20000010000000000000001 /* events.json */; };
+		C10000010000000000000002 /* publications.json in Resources */ = {isa = PBXBuildFile; fileRef = C20000010000000000000002 /* publications.json */; };
+		C10000010000000000000003 /* Publication.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20000010000000000000003 /* Publication.swift */; };
+		C10000010000000000000004 /* PublicationReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20000010000000000000004 /* PublicationReader.swift */; };
+		C10000010000000000000005 /* PublicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20000010000000000000005 /* PublicationTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A90000010000000000000001 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A70000010000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A50000010000000000000001;
+			remoteInfo = ROCKS;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A20000010000000000000001 /* ROCKSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ROCKSApp.swift; sourceTree = "<group>"; };
+		A20000010000000000000002 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
+		A20000010000000000000003 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		A20000010000000000000004 /* AppTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTheme.swift; sourceTree = "<group>"; };
+		A20000010000000000000005 /* Chapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter.swift; sourceTree = "<group>"; };
+		A20000010000000000000006 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		A20000010000000000000007 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		A20000010000000000000008 /* ChapterListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterListView.swift; sourceTree = "<group>"; };
+		A20000010000000000000009 /* EventListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventListView.swift; sourceTree = "<group>"; };
+		A20000010000000000000010 /* PlaceholderViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceholderViews.swift; sourceTree = "<group>"; };
+		A20000010000000000000011 /* ROCKSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ROCKSTests.swift; sourceTree = "<group>"; };
+		A20000010000000000000012 /* ROCKS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ROCKS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A20000010000000000000013 /* ROCKSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ROCKSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A20000010000000000000014 /* AppEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEnvironment.swift; sourceTree = "<group>"; };
+		A20000010000000000000015 /* AppError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppError.swift; sourceTree = "<group>"; };
+		A20000010000000000000016 /* ChapterRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterRepository.swift; sourceTree = "<group>"; };
+		A20000010000000000000017 /* EventRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRepository.swift; sourceTree = "<group>"; };
+		A20000010000000000000018 /* DateFormatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatting.swift; sourceTree = "<group>"; };
+		A20000010000000000000019 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		A20000010000000000000020 /* ROCKSButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ROCKSButton.swift; sourceTree = "<group>"; };
+		A20000010000000000000021 /* ROCKSTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ROCKSTextField.swift; sourceTree = "<group>"; };
+		A20000010000000000000022 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		A20000010000000000000023 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
+		A20000010000000000000024 /* AuthViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewModel.swift; sourceTree = "<group>"; };
+		A20000010000000000000025 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		A20000010000000000000026 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		A20000010000000000000027 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		A20000010000000000000028 /* ProgramsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramsView.swift; sourceTree = "<group>"; };
+		A20000010000000000000029 /* NewsArticle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsArticle.swift; sourceTree = "<group>"; };
+		A20000010000000000000030 /* NewsRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsRepository.swift; sourceTree = "<group>"; };
+		A20000010000000000000031 /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
+		A20000010000000000000033 /* EventRegistrationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRegistrationService.swift; sourceTree = "<group>"; };
+		A20000010000000000000034 /* EventRegistrationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRegistrationViewModel.swift; sourceTree = "<group>"; };
+		A20000010000000000000035 /* EventRegistrationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRegistrationTests.swift; sourceTree = "<group>"; };
+		A20000010000000000000036 /* DeepLinkRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepLinkRoute.swift; sourceTree = "<group>"; };
+		A20000010000000000000037 /* RolePermissions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RolePermissions.swift; sourceTree = "<group>"; };
+		A20000010000000000000038 /* DeepLinkAndPermissionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepLinkAndPermissionTests.swift; sourceTree = "<group>"; };
+		A20000010000000000000039 /* OfficialLinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfficialLinks.swift; sourceTree = "<group>"; };
+		A20000010000000000000040 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
+		A20000010000000000000041 /* CHAMPMentorshipView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHAMPMentorshipView.swift; sourceTree = "<group>"; };
+		A20000010000000000000042 /* ScholarshipInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScholarshipInfoView.swift; sourceTree = "<group>"; };
+		A20000010000000000000043 /* MembershipView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MembershipView.swift; sourceTree = "<group>"; };
+		A20000010000000000000044 /* MemberDirectoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemberDirectoryView.swift; sourceTree = "<group>"; };
+		A20000010000000000000045 /* OfficialLinksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfficialLinksTests.swift; sourceTree = "<group>"; };
+		A20000010000000000000046 /* ROCKS/Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = ROCKS/Assets.xcassets; sourceTree = "<group>"; };
+		A20000010000000000000047 /* MembersViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MembersViewModel.swift; sourceTree = "<group>"; };
+		A20000010000000000000048 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		A20000010000000000000049 /* EventsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsViewModel.swift; sourceTree = "<group>"; };
+		A2000001000000000000004A /* MentorshipViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentorshipViewModel.swift; sourceTree = "<group>"; };
+		A2000001000000000000004B /* FeedViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewModel.swift; sourceTree = "<group>"; };
+		A2000001000000000000004C /* NotificationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsViewModel.swift; sourceTree = "<group>"; };
+		A2000001000000000000004D /* ROCKSComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ROCKSComponents.swift; sourceTree = "<group>"; };
+		A2000001000000000000004E /* MentorshipRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentorshipRepository.swift; sourceTree = "<group>"; };
+		A2000001000000000000004F /* ScholarshipRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScholarshipRepository.swift; sourceTree = "<group>"; };
+		A20000010000000000000050 /* MemberRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemberRepository.swift; sourceTree = "<group>"; };
+		A20000010000000000000051 /* NotificationRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationRepository.swift; sourceTree = "<group>"; };
+		A20000010000000000000052 /* FeedRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedRepository.swift; sourceTree = "<group>"; };
+		A20000010000000000000053 /* AppNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppNotification.swift; sourceTree = "<group>"; };
+		A20000010000000000000054 /* Scholarship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scholarship.swift; sourceTree = "<group>"; };
+		A20000010000000000000055 /* Community.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Community.swift; sourceTree = "<group>"; };
+		A20000010000000000000056 /* Mentorship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mentorship.swift; sourceTree = "<group>"; };
+		A20000010000000000000057 /* ResourcesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesView.swift; sourceTree = "<group>"; };
+		A20000010000000000000058 /* MentorshipViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentorshipViews.swift; sourceTree = "<group>"; };
+		A20000010000000000000059 /* ScholarshipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScholarshipsView.swift; sourceTree = "<group>"; };
+		A2000001000000000000005A /* MembersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MembersView.swift; sourceTree = "<group>"; };
+		A2000001000000000000005B /* ExploreMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreMenuView.swift; sourceTree = "<group>"; };
+		A2000001000000000000005C /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		A2000001000000000000005D /* CommunityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityView.swift; sourceTree = "<group>"; };
+		A2000001000000000000005E /* DonateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonateView.swift; sourceTree = "<group>"; };
+		A2000001000000000000005F /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
+		A20000010000000000000060 /* SupabaseAuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupabaseAuthService.swift; sourceTree = "<group>"; };
+		A20000010000000000000061 /* SupabaseRepositories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupabaseRepositories.swift; sourceTree = "<group>"; };
+		A20000010000000000000062 /* FeatureViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureViewModelTests.swift; sourceTree = "<group>"; };
+		A2000001000000000000F001 /* CommunityBoardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityBoardTests.swift; sourceTree = "<group>"; };
+		A20000010000000000000063 /* Config.Development.xcconfig.example */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.Development.xcconfig.example; sourceTree = "<group>"; };
+		A20000010000000000000064 /* Config.example.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.example.xcconfig; sourceTree = "<group>"; };
+		C20000010000000000000001 /* events.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = events.json; sourceTree = "<group>"; };
+		C20000010000000000000002 /* publications.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = publications.json; sourceTree = "<group>"; };
+		C20000010000000000000003 /* Publication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Publication.swift; sourceTree = "<group>"; };
+		C20000010000000000000004 /* PublicationReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublicationReader.swift; sourceTree = "<group>"; };
+		C20000010000000000000005 /* PublicationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublicationTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A30000010000000000000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000010000000000000061 /* Supabase in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A30000010000000000000002 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A40000010000000000000001 = {
+			isa = PBXGroup;
+			children = (
+				A40000010000000000000002 /* ROCKS/App */,
+				A40000010000000000000003 /* ROCKS/DesignSystem */,
+				A40000010000000000000004 /* ROCKS/Models */,
+				A40000010000000000000005 /* ROCKS/Views */,
+				A40000010000000000000006 /* Products */,
+				A40000010000000000000007 /* ROCKSTests */,
+				A40000010000000000000008 /* ROCKS/Repositories */,
+				A40000010000000000000009 /* ROCKS/Services */,
+				A40000010000000000000010 /* ROCKS/Resources */,
+				A40000010000000000000011 /* ROCKS/ViewModels */,
+				A40000010000000000000012 /* ROCKS/Utilities */,
+				A20000010000000000000046 /* ROCKS/Assets.xcassets */,
+				A20000010000000000000063 /* Config.Development.xcconfig.example */,
+				A20000010000000000000064 /* Config.example.xcconfig */,
+			);
+			sourceTree = "<group>";
+		};
+		A40000010000000000000002 /* ROCKS/App */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000001 /* ROCKSApp.swift */,
+				A20000010000000000000002 /* AppState.swift */,
+				A20000010000000000000003 /* RootView.swift */,
+				A20000010000000000000014 /* AppEnvironment.swift */,
+			);
+			path = ROCKS/App;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000003 /* ROCKS/DesignSystem */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000004 /* AppTheme.swift */,
+				A20000010000000000000019 /* LoadingView.swift */,
+				A20000010000000000000020 /* ROCKSButton.swift */,
+				A20000010000000000000021 /* ROCKSTextField.swift */,
+				A20000010000000000000040 /* SafariView.swift */,
+				A2000001000000000000004D /* ROCKSComponents.swift */,
+			);
+			path = ROCKS/DesignSystem;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000004 /* ROCKS/Models */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000005 /* Chapter.swift */,
+				A20000010000000000000006 /* Event.swift */,
+				A20000010000000000000022 /* User.swift */,
+				A20000010000000000000029 /* NewsArticle.swift */,
+				C20000010000000000000003 /* Publication.swift */,
+				A20000010000000000000053 /* AppNotification.swift */,
+				A20000010000000000000054 /* Scholarship.swift */,
+				A20000010000000000000055 /* Community.swift */,
+				A20000010000000000000056 /* Mentorship.swift */,
+			);
+			path = ROCKS/Models;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000005 /* ROCKS/Views */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000007 /* HomeView.swift */,
+				A20000010000000000000008 /* ChapterListView.swift */,
+				A20000010000000000000009 /* EventListView.swift */,
+				A20000010000000000000010 /* PlaceholderViews.swift */,
+				A20000010000000000000025 /* OnboardingView.swift */,
+				A20000010000000000000026 /* LoginView.swift */,
+				A20000010000000000000027 /* ProfileView.swift */,
+				A20000010000000000000028 /* ProgramsView.swift */,
+				A20000010000000000000031 /* NewsView.swift */,
+				C20000010000000000000004 /* PublicationReader.swift */,
+				A20000010000000000000041 /* CHAMPMentorshipView.swift */,
+				A20000010000000000000042 /* ScholarshipInfoView.swift */,
+				A20000010000000000000043 /* MembershipView.swift */,
+				A20000010000000000000044 /* MemberDirectoryView.swift */,
+				A20000010000000000000057 /* ResourcesView.swift */,
+				A20000010000000000000058 /* MentorshipViews.swift */,
+				A20000010000000000000059 /* ScholarshipsView.swift */,
+				A2000001000000000000005A /* MembersView.swift */,
+				A2000001000000000000005B /* ExploreMenuView.swift */,
+				A2000001000000000000005C /* SplashView.swift */,
+				A2000001000000000000005D /* CommunityView.swift */,
+				A2000001000000000000005E /* DonateView.swift */,
+				A2000001000000000000005F /* NotificationsView.swift */,
+			);
+			path = ROCKS/Views;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000006 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000012 /* ROCKS.app */,
+				A20000010000000000000013 /* ROCKSTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000007 /* ROCKSTests */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000011 /* ROCKSTests.swift */,
+				A20000010000000000000035 /* EventRegistrationTests.swift */,
+				A20000010000000000000038 /* DeepLinkAndPermissionTests.swift */,
+				A20000010000000000000045 /* OfficialLinksTests.swift */,
+				A20000010000000000000062 /* FeatureViewModelTests.swift */,
+				A2000001000000000000F001 /* CommunityBoardTests.swift */,
+				C20000010000000000000005 /* PublicationTests.swift */,
+			);
+			path = ROCKSTests;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000008 /* ROCKS/Repositories */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000016 /* ChapterRepository.swift */,
+				A20000010000000000000017 /* EventRepository.swift */,
+				A20000010000000000000030 /* NewsRepository.swift */,
+				A2000001000000000000004E /* MentorshipRepository.swift */,
+				A2000001000000000000004F /* ScholarshipRepository.swift */,
+				A20000010000000000000050 /* MemberRepository.swift */,
+				A20000010000000000000051 /* NotificationRepository.swift */,
+				A20000010000000000000052 /* FeedRepository.swift */,
+			);
+			path = ROCKS/Repositories;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000009 /* ROCKS/Services */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000023 /* AuthService.swift */,
+				A20000010000000000000033 /* EventRegistrationService.swift */,
+				A20000010000000000000060 /* SupabaseAuthService.swift */,
+				A20000010000000000000061 /* SupabaseRepositories.swift */,
+			);
+			path = ROCKS/Services;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000010 /* ROCKS/Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C20000010000000000000001 /* events.json */,
+				C20000010000000000000002 /* publications.json */,
+			);
+			path = ROCKS/Resources;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000011 /* ROCKS/ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000024 /* AuthViewModel.swift */,
+				A20000010000000000000034 /* EventRegistrationViewModel.swift */,
+				A20000010000000000000047 /* MembersViewModel.swift */,
+				A20000010000000000000048 /* HomeViewModel.swift */,
+				A20000010000000000000049 /* EventsViewModel.swift */,
+				A2000001000000000000004A /* MentorshipViewModel.swift */,
+				A2000001000000000000004B /* FeedViewModel.swift */,
+				A2000001000000000000004C /* NotificationsViewModel.swift */,
+			);
+			path = ROCKS/ViewModels;
+			sourceTree = "<group>";
+		};
+		A40000010000000000000012 /* ROCKS/Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				A20000010000000000000015 /* AppError.swift */,
+				A20000010000000000000018 /* DateFormatting.swift */,
+				A20000010000000000000036 /* DeepLinkRoute.swift */,
+				A20000010000000000000037 /* RolePermissions.swift */,
+				A20000010000000000000039 /* OfficialLinks.swift */,
+			);
+			path = ROCKS/Utilities;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A50000010000000000000001 /* ROCKS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A60000010000000000000001 /* Build configuration list for PBXNativeTarget "ROCKS" */;
+			buildPhases = (
+				A30000010000000000000009 /* Validate Demo Authentication Configuration */,
+				A30000010000000000000003 /* Sources */,
+				A30000010000000000000001 /* Frameworks */,
+				A30000010000000000000007 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ROCKS;
+			packageProductDependencies = (
+				B20000010000000000000001 /* Supabase */,
+			);
+			productName = ROCKS;
+			productReference = A20000010000000000000012 /* ROCKS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A50000010000000000000002 /* ROCKSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A60000010000000000000002 /* Build configuration list for PBXNativeTarget "ROCKSTests" */;
+			buildPhases = (
+				A30000010000000000000005 /* Sources */,
+				A30000010000000000000002 /* Frameworks */,
+				A30000010000000000000006 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AA0000010000000000000001 /* PBXTargetDependency */,
+			);
+			name = ROCKSTests;
+			productName = ROCKSTests;
+			productReference = A20000010000000000000013 /* ROCKSTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A70000010000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					A50000010000000000000001 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					A50000010000000000000002 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = A50000010000000000000001;
+					};
+				};
+			};
+			buildConfigurationList = A60000010000000000000003 /* Build configuration list for PBXProject "ROCKS" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A40000010000000000000001;
+			packageReferences = (
+				B10000010000000000000001 /* XCRemoteSwiftPackageReference "supabase-swift" */,
+			);
+			productRefGroup = A40000010000000000000006 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A50000010000000000000001 /* ROCKS */,
+				A50000010000000000000002 /* ROCKSTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A30000010000000000000006 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A30000010000000000000007 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000010000000000000044 /* ROCKS/Assets.xcassets in Resources */,
+				C10000010000000000000001 /* events.json in Resources */,
+				C10000010000000000000002 /* publications.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A30000010000000000000009 /* Validate Demo Authentication Configuration */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Validate Demo Authentication Configuration";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if [ \"$CONFIGURATION\" = \"Release\" ]; then\n    case \" $SWIFT_ACTIVE_COMPILATION_CONDITIONS \" in\n        *\" DEMO_MODE_ENABLED \"*) echo \"error: DEMO_MODE_ENABLED cannot be compiled into Release builds.\" >&2; exit 1 ;;\n    esac\n    case \"$(printf '%s' \"$DEMO_MODE_ENABLED\" | tr '[:lower:]' '[:upper:]')\" in\n        YES|TRUE|1) echo \"error: DEMO_MODE_ENABLED must be disabled for Release builds.\" >&2; exit 1 ;;\n    esac\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A30000010000000000000003 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000010000000000000001 /* ROCKSApp.swift in Sources */,
+				A10000010000000000000002 /* AppState.swift in Sources */,
+				A10000010000000000000003 /* RootView.swift in Sources */,
+				A10000010000000000000004 /* AppTheme.swift in Sources */,
+				A10000010000000000000005 /* Chapter.swift in Sources */,
+				A10000010000000000000006 /* Event.swift in Sources */,
+				A10000010000000000000007 /* HomeView.swift in Sources */,
+				A10000010000000000000008 /* ChapterListView.swift in Sources */,
+				A10000010000000000000009 /* EventListView.swift in Sources */,
+				A10000010000000000000010 /* PlaceholderViews.swift in Sources */,
+				A10000010000000000000012 /* AppEnvironment.swift in Sources */,
+				A10000010000000000000013 /* AppError.swift in Sources */,
+				A10000010000000000000014 /* ChapterRepository.swift in Sources */,
+				A10000010000000000000015 /* EventRepository.swift in Sources */,
+				A10000010000000000000016 /* DateFormatting.swift in Sources */,
+				A10000010000000000000017 /* LoadingView.swift in Sources */,
+				A10000010000000000000018 /* ROCKSButton.swift in Sources */,
+				A10000010000000000000019 /* ROCKSTextField.swift in Sources */,
+				A10000010000000000000020 /* User.swift in Sources */,
+				A10000010000000000000021 /* AuthService.swift in Sources */,
+				A10000010000000000000022 /* AuthViewModel.swift in Sources */,
+				A10000010000000000000023 /* OnboardingView.swift in Sources */,
+				A10000010000000000000024 /* LoginView.swift in Sources */,
+				A10000010000000000000025 /* ProfileView.swift in Sources */,
+				A10000010000000000000026 /* ProgramsView.swift in Sources */,
+				A10000010000000000000027 /* NewsArticle.swift in Sources */,
+				C10000010000000000000003 /* Publication.swift in Sources */,
+				A10000010000000000000028 /* NewsRepository.swift in Sources */,
+				A10000010000000000000029 /* NewsView.swift in Sources */,
+				C10000010000000000000004 /* PublicationReader.swift in Sources */,
+				A10000010000000000000031 /* EventRegistrationService.swift in Sources */,
+				A10000010000000000000032 /* EventRegistrationViewModel.swift in Sources */,
+				A10000010000000000000034 /* DeepLinkRoute.swift in Sources */,
+				A10000010000000000000035 /* RolePermissions.swift in Sources */,
+				A10000010000000000000037 /* OfficialLinks.swift in Sources */,
+				A10000010000000000000038 /* SafariView.swift in Sources */,
+				A10000010000000000000039 /* CHAMPMentorshipView.swift in Sources */,
+				A10000010000000000000040 /* ScholarshipInfoView.swift in Sources */,
+				A10000010000000000000041 /* MembershipView.swift in Sources */,
+				A10000010000000000000042 /* MemberDirectoryView.swift in Sources */,
+				A10000010000000000000045 /* MembersViewModel.swift in Sources */,
+				A10000010000000000000046 /* HomeViewModel.swift in Sources */,
+				A10000010000000000000047 /* EventsViewModel.swift in Sources */,
+				A10000010000000000000048 /* MentorshipViewModel.swift in Sources */,
+				A10000010000000000000049 /* FeedViewModel.swift in Sources */,
+				A1000001000000000000004A /* NotificationsViewModel.swift in Sources */,
+				A1000001000000000000004B /* ROCKSComponents.swift in Sources */,
+				A1000001000000000000004C /* MentorshipRepository.swift in Sources */,
+				A1000001000000000000004D /* ScholarshipRepository.swift in Sources */,
+				A1000001000000000000004E /* MemberRepository.swift in Sources */,
+				A1000001000000000000004F /* NotificationRepository.swift in Sources */,
+				A10000010000000000000050 /* FeedRepository.swift in Sources */,
+				A10000010000000000000051 /* AppNotification.swift in Sources */,
+				A10000010000000000000052 /* Scholarship.swift in Sources */,
+				A10000010000000000000053 /* Community.swift in Sources */,
+				A10000010000000000000054 /* Mentorship.swift in Sources */,
+				A10000010000000000000055 /* ResourcesView.swift in Sources */,
+				A10000010000000000000056 /* MentorshipViews.swift in Sources */,
+				A10000010000000000000057 /* ScholarshipsView.swift in Sources */,
+				A10000010000000000000058 /* MembersView.swift in Sources */,
+				A10000010000000000000059 /* ExploreMenuView.swift in Sources */,
+				A1000001000000000000005A /* SplashView.swift in Sources */,
+				A1000001000000000000005B /* CommunityView.swift in Sources */,
+				A1000001000000000000005C /* DonateView.swift in Sources */,
+				A1000001000000000000005D /* NotificationsView.swift in Sources */,
+				A1000001000000000000005E /* SupabaseAuthService.swift in Sources */,
+				A1000001000000000000005F /* SupabaseRepositories.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A30000010000000000000005 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000010000000000000011 /* ROCKSTests.swift in Sources */,
+				A10000010000000000000033 /* EventRegistrationTests.swift in Sources */,
+				A10000010000000000000036 /* DeepLinkAndPermissionTests.swift in Sources */,
+				A10000010000000000000043 /* OfficialLinksTests.swift in Sources */,
+				A10000010000000000000060 /* FeatureViewModelTests.swift in Sources */,
+				A1000001000000000000F001 /* CommunityBoardTests.swift in Sources */,
+				C10000010000000000000005 /* PublicationTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AA0000010000000000000001 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A50000010000000000000001 /* ROCKS */;
+			targetProxy = A90000010000000000000001 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A80000010000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A20000010000000000000063 /* Config.Development.xcconfig.example */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V25733G6TR;
+				ENABLE_TESTABILITY = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_EXPAND_BUILD_SETTINGS = YES;
+				INFOPLIST_FILE = ROCKS/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "The ROCKS";
+				INFOPLIST_KEY_CHAMP_URL = "$(CHAMP_URL)";
+				INFOPLIST_KEY_DEMO_MODE_ENABLED = "$(DEMO_MODE_ENABLED)";
+				INFOPLIST_KEY_DONATION_URL = "$(DONATION_URL)";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.social-networking";
+				INFOPLIST_KEY_MEMBERSHIP_PAYMENT_URL = "$(MEMBERSHIP_PAYMENT_URL)";
+				INFOPLIST_KEY_SUPABASE_ANON_KEY = "$(SUPABASE_ANON_KEY)";
+				INFOPLIST_KEY_SUPABASE_URL = "$(SUPABASE_URL)";
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = org.rocksinc.ROCKS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		A80000010000000000000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A20000010000000000000064 /* Config.example.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V25733G6TR;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_EXPAND_BUILD_SETTINGS = YES;
+				INFOPLIST_FILE = ROCKS/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "The ROCKS";
+				INFOPLIST_KEY_CHAMP_URL = "$(CHAMP_URL)";
+				INFOPLIST_KEY_DEMO_MODE_ENABLED = "$(DEMO_MODE_ENABLED)";
+				INFOPLIST_KEY_DONATION_URL = "$(DONATION_URL)";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.social-networking";
+				INFOPLIST_KEY_MEMBERSHIP_PAYMENT_URL = "$(MEMBERSHIP_PAYMENT_URL)";
+				INFOPLIST_KEY_SUPABASE_ANON_KEY = "$(SUPABASE_ANON_KEY)";
+				INFOPLIST_KEY_SUPABASE_URL = "$(SUPABASE_URL)";
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = org.rocksinc.ROCKS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		A80000010000000000000003 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = org.rocksinc.ROCKSTests;
+				PRODUCT_NAME = ROCKSTests;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ROCKS.app/ROCKS";
+			};
+			name = Debug;
+		};
+		A80000010000000000000004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = org.rocksinc.ROCKSTests;
+				PRODUCT_NAME = ROCKSTests;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ROCKS.app/ROCKS";
+			};
+			name = Release;
+		};
+		A80000010000000000000005 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A80000010000000000000006 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A60000010000000000000001 /* Build configuration list for PBXNativeTarget "ROCKS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A80000010000000000000001 /* Debug */,
+				A80000010000000000000002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A60000010000000000000002 /* Build configuration list for PBXNativeTarget "ROCKSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A80000010000000000000003 /* Debug */,
+				A80000010000000000000004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A60000010000000000000003 /* Build configuration list for PBXProject "ROCKS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A80000010000000000000005 /* Debug */,
+				A80000010000000000000006 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B10000010000000000000001 /* XCRemoteSwiftPackageReference "supabase-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/supabase/supabase-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B20000010000000000000001 /* Supabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B10000010000000000000001 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Supabase;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = A70000010000000000000001 /* Project object */;
+}

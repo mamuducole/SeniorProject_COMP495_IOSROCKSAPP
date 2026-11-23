@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests-master.dia",
+    "emit-module-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests-master.swiftdeps"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKSTests/DeepLinkAndPermissionTests.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/DeepLinkAndPermissionTests.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/DeepLinkAndPermissionTests.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/DeepLinkAndPermissionTests.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/DeepLinkAndPermissionTests.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/DeepLinkAndPermissionTests.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/DeepLinkAndPermissionTests.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/DeepLinkAndPermissionTests.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/DeepLinkAndPermissionTests~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKSTests/EventRegistrationTests.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/EventRegistrationTests.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/EventRegistrationTests.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/EventRegistrationTests.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/EventRegistrationTests.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/EventRegistrationTests.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/EventRegistrationTests.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/EventRegistrationTests.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/EventRegistrationTests~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKSTests/OfficialLinksTests.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/OfficialLinksTests.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/OfficialLinksTests.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/OfficialLinksTests.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/OfficialLinksTests.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/OfficialLinksTests.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/OfficialLinksTests.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/OfficialLinksTests.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/OfficialLinksTests~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKSTests/ROCKSTests.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DerivedData/Build/Intermediates.noindex/ROCKS.build/Debug-iphonesimulator/ROCKSTests.build/Objects-normal/arm64/ROCKSTests~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,25 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "74fd8e9f242216b2852fde176f67781920347a7f69e8aa984b67812930a3ce8a"
+build_start_time: [1795328717, 454439000]
+build_end_time: [1795328722, 198352000]
+inputs:
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/Codable.swift": [1794955915, 761515602]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/Deprecated.swift": [1794955915, 761613894]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/Exports.swift": [1794955915, 761673518]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/Helpers.swift": [1794955915, 761747268]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/MultipartFormData.swift"
+  : [1794955915, 761931643]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/StorageApi.swift": [1794955915, 762294892]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/StorageBucketApi.swift": [1794955915, 762423308]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/StorageError.swift": [1794955915, 762537349]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/StorageFileApi.swift": [1794955915, 762859349]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/StorageHTTPClient.swift"
+  : [1794955915, 762966182]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/StorageVectorsClient.swift"
+  : [1794955915, 763108723]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/SupabaseStorage.swift": [1794955915, 763287139]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/Types.swift": [1794955915, 763790846]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/VectorBucketClient.swift"
+  : [1794955915, 764080179]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Storage/VectorIndexClient.swift"
+  : [1794955915, 764207720]

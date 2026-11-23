@@ -1,0 +1,11 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "1d19f6c1e961d7a24538d0b10c5dd0735bea8e61ed38c14617685446a55bb9f4"
+build_start_time: [1795328722, 199998000]
+build_end_time: [1795328722, 651440000]
+inputs:
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Constants.swift": [1794955915, 764363803]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Deprecated.swift": [1794955915, 764437261]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Exports.swift": [1794955915, 764498678]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/SupabaseClient.swift": [1794955915, 764732552]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Tracing.swift": [1794955915, 764816344]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Supabase/Types.swift": [1794955915, 764927260]

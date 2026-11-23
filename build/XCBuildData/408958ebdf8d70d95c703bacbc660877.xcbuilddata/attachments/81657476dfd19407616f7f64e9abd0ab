@@ -1,0 +1,338 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKS-master.dia",
+    "emit-module-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKS-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKS-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKS-master.swiftdeps"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/App/AppEnvironment.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppEnvironment~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/App/AppState.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppState.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppState.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppState.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppState.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppState.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppState.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppState.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppState~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/App/ROCKSApp.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSApp.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSApp.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSApp.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSApp.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSApp.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSApp.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSApp.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSApp~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/App/RootView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RootView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RootView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RootView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RootView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RootView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RootView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RootView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RootView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/DesignSystem/AppTheme.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppTheme~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/DesignSystem/LoadingView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoadingView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoadingView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoadingView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoadingView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoadingView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoadingView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoadingView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoadingView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/DesignSystem/ROCKSButton.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSButton.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSButton.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSButton.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSButton.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSButton.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSButton.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSButton.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSButton~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/DesignSystem/ROCKSTextField.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSTextField.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSTextField.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSTextField.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSTextField.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSTextField.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSTextField.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSTextField.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ROCKSTextField~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Models/Chapter.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Chapter~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Models/Event.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/Event~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Models/NewsArticle.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsArticle.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsArticle.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsArticle.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsArticle.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsArticle.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsArticle.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsArticle.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsArticle~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Models/User.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/User.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/User.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/User.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/User.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/User.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/User.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/User.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/User~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Repositories/ChapterRepository.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterRepository~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Repositories/EventRepository.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRepository~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Repositories/NewsRepository.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsRepository.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsRepository.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsRepository.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsRepository.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsRepository.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsRepository.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsRepository.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsRepository~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Services/AuthService.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthService.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthService.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthService.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthService.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthService.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthService.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthService.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthService~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Services/EventRegistrationService.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationService.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationService.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationService.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationService.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationService.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationService.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationService.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationService~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/AppError.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AppError~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/DateFormatting.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DateFormatting~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/DeepLinkRoute.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DeepLinkRoute.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/DeepLinkRoute~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Utilities/RolePermissions.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RolePermissions.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RolePermissions.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RolePermissions.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RolePermissions.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RolePermissions.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RolePermissions.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RolePermissions.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/RolePermissions~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/AuthViewModel.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthViewModel.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthViewModel.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthViewModel.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthViewModel.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthViewModel.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthViewModel.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthViewModel.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/AuthViewModel~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/ViewModels/EventRegistrationViewModel.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventRegistrationViewModel~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/ChapterListView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/ChapterMapView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterMapView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterMapView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterMapView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterMapView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterMapView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterMapView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterMapView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterMapView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/EventListView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/HomeView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/LoginView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/NewsView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/NewsView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/OnboardingView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/OnboardingView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/OnboardingView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/OnboardingView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/PlaceholderViews.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/PlaceholderViews~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/ProfileView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/ProgramsView.swift" : {
+    "const-values" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProgramsView.swiftconstvalues",
+    "dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProgramsView.d",
+    "diagnostics" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProgramsView.dia",
+    "index-unit-output-path" : "/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProgramsView.o",
+    "llvm-bc" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProgramsView.bc",
+    "object" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProgramsView.o",
+    "swift-dependencies" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProgramsView.swiftdeps",
+    "swiftmodule" : "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ProgramsView~partial.swiftmodule"
+  }
+}

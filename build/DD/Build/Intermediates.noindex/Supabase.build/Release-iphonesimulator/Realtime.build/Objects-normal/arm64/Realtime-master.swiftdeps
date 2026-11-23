@@ -1,0 +1,27 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "80c4a9b29cfb7aa35d498c22f9d24de21716d69e0475b24ef74c8af6cf842abe"
+build_start_time: [1795328720, 99343000]
+build_end_time: [1795328722, 197972000]
+inputs:
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/Defaults.swift"
+  : [1794955915, 755707159]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/Delegated.swift"
+  : [1794955915, 755834700]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/Deprecated.swift"
+  : [1794955915, 755914992]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/HeartbeatTimer.swift"
+  : [1794955915, 756030158]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/PhoenixTransport.swift"
+  : [1794955915, 756147741]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/Presence.swift"
+  : [1794955915, 756349449]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/Push.swift": [1794955915, 756600198]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/RealtimeChannel.swift"
+  : [1794955915, 756863822]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/RealtimeClient.swift"
+  : [1794955915, 757294780]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/RealtimeMessage.swift"
+  : [1794955915, 757389363]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Deprecated/TimeoutTimer.swift"
+  : [1794955915, 757461154]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Exports.swift": [1794955915, 757534238]

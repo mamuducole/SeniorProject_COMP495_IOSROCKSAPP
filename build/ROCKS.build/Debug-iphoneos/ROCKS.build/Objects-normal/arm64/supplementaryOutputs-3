@@ -1,0 +1,18 @@
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/EventListView.swift":
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.swiftdeps"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.o"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.dia"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/EventListView.swiftconstvalues"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/HomeView.swift":
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.o"
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.swiftconstvalues"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.dia"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/HomeView.d"
+"/Users/kareemcole/Downloads/ROCKS_IOSAPP/ROCKS/Views/ChapterListView.swift":
+  const-values: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.swiftconstvalues"
+  object: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.o"
+  dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.d"
+  swift-dependencies: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.swiftdeps"
+  diagnostics: "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/ROCKS.build/Debug-iphoneos/ROCKS.build/Objects-normal/arm64/ChapterListView.dia"

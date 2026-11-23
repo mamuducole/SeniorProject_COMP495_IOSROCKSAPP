@@ -1,0 +1,21 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "517a81ae61729f041cf55f94d1ab878627da3c37a1a647691e0e6ee7362aa1ef"
+build_start_time: [1795328714, 396499000]
+build_end_time: [1795328716, 219447000]
+inputs:
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTP2ErrorCode.swift"
+  : [1794955915, 361845892]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTP3ErrorCode.swift"
+  : [1794955915, 362111350]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPField.swift": [1794955915, 362245641]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPFieldName.swift"
+  : [1794955915, 362474599]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPFieldValue.swift"
+  : [1794955915, 362707890]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPFields.swift": [1794955915, 362900931]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPParsedFields.swift"
+  : [1794955915, 363118306]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPRequest+URL.swift"
+  : [1794955915, 363235305]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPRequest.swift": [1794955915, 363397305]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/swift-http-types/Sources/HTTPTypes/HTTPResponse.swift": [1794955915, 363590804]

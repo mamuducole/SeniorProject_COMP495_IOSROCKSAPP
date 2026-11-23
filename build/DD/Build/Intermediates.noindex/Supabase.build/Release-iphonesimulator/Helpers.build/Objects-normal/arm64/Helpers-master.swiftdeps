@@ -1,0 +1,38 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "a7b33489789e9458ad4c3d1a60937614e289eb927f7fea6640a9c7622f1bd2f1"
+build_start_time: [1795328716, 222246000]
+build_end_time: [1795328717, 450436000]
+inputs:
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/APIKeyFormat.swift": [1794955915, 747328431]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/AnyJSON/AnyJSON+Codable.swift"
+  : [1794955915, 747496805]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/AnyJSON/AnyJSON.swift": [1794955915, 747800804]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/Base64URL.swift": [1794955915, 747935471]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/Codable.swift": [1794955915, 748042054]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/DateFormatter.swift": [1794955915, 748139803]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/EventEmitter.swift": [1794955915, 748237803]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/FoundationExtensions.swift"
+  : [1794955915, 748329595]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/HTTP/HTTPClient.swift": [1794955915, 748770927]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/HTTP/HTTPFields.swift": [1794955915, 748857968]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/HTTP/HTTPRequest.swift": [1794955915, 748937676]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/HTTP/HTTPResponse.swift"
+  : [1794955915, 749088801]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/HTTP/LoggerInterceptor.swift"
+  : [1794955915, 749164801]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/HTTP/RetryRequestInterceptor.swift"
+  : [1794955915, 749272176]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/JWT.swift": [1794955915, 749362300]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/Logger/OSLogSupabaseLogger.swift"
+  : [1794955915, 749481842]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/Logger/SupabaseLogger.swift"
+  : [1794955915, 749571675]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/PostgRESTFilterValue.swift"
+  : [1794955915, 749658800]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/SharedModels/HTTPError.swift"
+  : [1794955915, 749876591]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/SharedModels/PostgrestError.swift"
+  : [1794955915, 750224882]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/Task+withTimeout.swift": [1794955915, 750323131]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/TaskLocalHelpers.swift": [1794955915, 750423548]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/Helpers/Version.swift": [1794955915, 750523797]

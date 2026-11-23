@@ -1,0 +1,11 @@
+{
+  "name": "ROCKS Connect Demo",
+  "short_name": "ROCKS Demo",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#c9a326",
+  "icons": [
+    { "src": "assets/AppIcon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,49 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "349f55ecf745fbf2c13fc8653ed7ae90b6b9839183e2fc1d311ecd8f480fb887"
+build_start_time: [1795328714, 397672000]
+build_end_time: [1795328715, 184096000]
+inputs:
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/ErrorReporting.swift"
+  : [1794955915, 489557018]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/AppHostWarning.swift"
+  : [1794955915, 489682101]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/Deprecations.swift"
+  : [1794955915, 489797184]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/FailureObserver.swift"
+  : [1794955915, 489933684]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/LockIsolated.swift"
+  : [1794955915, 490001433]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/Rethrows.swift"
+  : [1794955915, 490074433]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/SwiftTesting.swift"
+  : [1794955915, 490400183]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/UncheckedSendable.swift"
+  : [1794955915, 490470057]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/Warn.swift"
+  : [1794955915, 490550266]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/XCTest.swift"
+  : [1794955915, 490626765]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IsTesting.swift"
+  : [1794955915, 490697557]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueReporter.swift"
+  : [1794955915, 490784181]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueReporters/BreakpointReporter.swift"
+  : [1794955915, 490893640]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueReporters/DefaultReporter.swift"
+  : [1794955915, 490992473]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueReporters/FatalErrorReporter.swift"
+  : [1794955915, 491070639]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueSeverity.swift"
+  : [1794955915, 491140431]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/ReportIssue.swift"
+  : [1794955915, 491229347]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Symbolic Links/IssueReportingPackageSupport/_Test.swift"
+  : [1794955915, 491784096]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/TestContext.swift"
+  : [1794955915, 491369638]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Unimplemented.swift"
+  : [1794955915, 491477888]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/WithExpectedIssue.swift"
+  : [1794955915, 491591013]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/WithIssueContext.swift"
+  : [1794955915, 491658679]

@@ -1,0 +1,50 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "4b3979a06d497f8e9be93690452c92d44d37e973c227ed3e3cc3f712a5370f60"
+build_start_time: [1795328717, 454548000]
+build_end_time: [1795328721, 880380000]
+inputs:
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/CallbackManager.swift"
+  : [1794955915, 757695654]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/ChannelEvent.swift": [1794955915, 757753862]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/ChannelStateManager.swift"
+  : [1794955915, 758025736]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/ConnectionManager.swift"
+  : [1794955915, 758251402]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/Exports.swift": [1794955915, 758359569]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/PostgresAction.swift"
+  : [1794955915, 758458777]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/PostgresActionData.swift"
+  : [1794955915, 758525568]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/PresenceAction.swift"
+  : [1794955915, 758703026]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/PushV2.swift": [1794955915, 758783026]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeChannel+AsyncAwait.swift"
+  : [1794955915, 758935359]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeChannel+Status.swift"
+  : [1794955915, 759057483]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeChannelV2.swift"
+  : [1794955915, 759433357]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeClient+HeartbeatStatus.swift"
+  : [1794955915, 759540107]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeClient+Status.swift"
+  : [1794955915, 759620482]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeClientV2.swift"
+  : [1794955915, 759847690]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeError.swift": [1794955915, 759950564]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeJoinConfig.swift"
+  : [1794955915, 760059856]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeLifecycleManager.swift"
+  : [1794955915, 760137064]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeMessageV2.swift"
+  : [1794955915, 760238230]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimePostgresFilter.swift"
+  : [1794955915, 760381772]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimePostgresFilterValue.swift"
+  : [1794955915, 760464188]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/RealtimeSerializer.swift"
+  : [1794955915, 760597396]
+  "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/Types.swift": [1794955915, 761004145]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/WebSocket/URLSessionWebSocket.swift"
+  : [1794955915, 761282978]
+  ? "/Users/kareemcole/Downloads/ROCKS_IOSAPP/build/DD/SourcePackages/checkouts/supabase-swift/Sources/RealtimeV2/WebSocket/WebSocket.swift"
+  : [1794955915, 761383436]

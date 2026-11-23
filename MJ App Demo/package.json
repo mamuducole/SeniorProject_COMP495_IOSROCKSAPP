@@ -1,0 +1,12 @@
+{
+  "name": "rocks-connect-mj-demo",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "pdfjs-dist": "^4.10.38"
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node --check app.js && node --check build.mjs"
+  }
+}
